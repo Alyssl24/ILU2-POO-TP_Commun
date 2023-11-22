@@ -11,5 +11,4 @@ public class ReservationHotel extends Reservation{
 		this.nbLitSimple = nbLitSimple;
 		this.numChambre = numChambre;
 	}
-	
 }
