@@ -19,4 +19,7 @@ public abstract class Formulaire {
 	public int setIdentificationEntite(int numEntite) {
 		return this.numEntite = numEntite;
 	}
+
+	public abstract int getJour();
+	public abstract int getMois();
 }
